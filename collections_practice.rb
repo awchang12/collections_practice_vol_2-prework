@@ -44,6 +44,4 @@ def count_elements(arr)
   end
 end
 
-
-  
-  
+def 
