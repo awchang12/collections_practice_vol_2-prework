@@ -73,8 +73,8 @@ def find_cool(arr)
   return cool_arr
 end
 
-def organize_schools(arr)
+def organize_schools(schools)
   organized_schools = {}
   
-  arr.
+  schools.each do |
 end
