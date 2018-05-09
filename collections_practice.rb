@@ -63,4 +63,5 @@ end
 def find_cool(arr)
   cool_arr = []
   
-  arr.each do |
+  arr.each do |hash|
+    hash.each
