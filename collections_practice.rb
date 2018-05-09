@@ -74,5 +74,7 @@ def find_cool(arr)
 end
 
 def organize_schools(arr)
+  organized_schools = {}
   
+  arr.
 end
