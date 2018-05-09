@@ -77,5 +77,6 @@ def organize_schools(schools)
   organized_schools = {}
   
   schools.each do |school, location|
-    location.each do |
+    location.each do |key, value|
+      
 end
