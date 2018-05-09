@@ -61,3 +61,6 @@ def merge_data(keys, data)
 end
 
 def find_cool(arr)
+  cool_arr = []
+  
+  arr.each do |
