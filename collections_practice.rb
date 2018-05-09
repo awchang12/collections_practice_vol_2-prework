@@ -83,4 +83,7 @@ def organize_schools(schools)
       else
         organized_schools[value] = []
         organized_schools[value] << school
+      end
+    end
+  end
 end
