@@ -81,5 +81,6 @@ def organize_schools(schools)
       if organized_schools[value]
         organized_schools[value] << school
       else
-        organized_schools
+        organized_schools[value] = []
+        organized_schools[value] << school
 end
