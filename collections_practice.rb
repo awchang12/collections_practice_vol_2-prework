@@ -49,5 +49,6 @@ def merge_data(keys, data)
   keys.each do |keys_hash|
     keys_hash.each do |key, value|
       data.each do |data_hash|
-        data_hash.each do |
+        data_hash.each do |name, info|
+          if 
 end
