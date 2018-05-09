@@ -43,5 +43,3 @@ def count_elements(arr)
     t[:count] = count
   end
 end
-
-def 
