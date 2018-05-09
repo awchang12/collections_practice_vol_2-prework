@@ -48,5 +48,6 @@ def merge_data(keys, data)
   merged_data = []
   keys.each do |keys_hash|
     keys_hash.each do |key, value|
-      
+      data.each do |data_hash|
+        data_hash.each do |
 end
