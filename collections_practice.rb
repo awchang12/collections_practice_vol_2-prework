@@ -72,3 +72,6 @@ def find_cool(arr)
   end
   return cool_arr
 end
+
+def organize_schools
+  
